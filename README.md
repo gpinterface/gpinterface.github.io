@@ -1,31 +1,19 @@
-Freelancer Jekyll theme
+Interface
 =========================
 
-Jekyll theme based on [Freelancer bootstrap theme ](http://startbootstrap.com/templates/freelancer/)
+Grupo Interdisciplinar de Pesquisa em Filosofia e Cultura
 
-## How to use
- - Place a image in `/img/portoflio/`
- - Create posts to display your projects. Use the follow as an example:
-```txt
----
-layout: default
-modal-id: 1
-date: 2014-07-18
-img: cabin.png
-alt: image-alt
-project-date: July 2014
-client: The Client
-category: Web Development
-description: The description of the project
+## Atividades
+ - Grupo de estudos
+ - Seminários
+ - Minicursos
 
----
-```
+## Produções
+Veja uma lista de [publicações do membros do grupo](http://www.gpinterface.com.br/publicacoes)
 
-## Demo
-View this jekyll theme in action [here](https://jeromelachaud.github.io/freelancer-theme)
-
-## Screenshot
-![screenshot](https://raw.githubusercontent.com/jeromelachaud/freelancer-theme/master/screenshot.png)
+## Interface na web
+ - Google +
+ - Twitter
 
 =========
-For more details, read [documentation](http://jekyllrb.com/)
+Grupo de pesquisa criado e mantido por [Marcos Ramon](http://arcano5.com.br/)
