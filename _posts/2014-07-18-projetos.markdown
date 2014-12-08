@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: cabin.png
+alt: image-alt
+project-data: 2015
+onde: IFB
+category: Apresentação
+description: O Interface é um grupo de pesquisa com proposta interdisciplinar vinculado ao Instituto Federal de Brasília - IFB. Para mais informações e detalhes sobre o grupo clique [aqui](http://gpinterface.com.br/sobre). O grupo é aberto à comunidade e a participação nas atividades são livres e gratuitas.
+
+
+---
