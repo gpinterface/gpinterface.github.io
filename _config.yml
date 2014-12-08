@@ -29,11 +29,11 @@ social:
  
 # Postal address (add as many lines as necessary)
 address:
-  - line: Instituto Federal de Brasília - IFB / SGAN 610, Asa Norte
+  - line: SGAN 610, Asa Norte / Instituto Federal de Brasília - IFB 
   - line: Brasília, DF
   
 # Credits content
-credits: 'Interface é um grupo de pesquisa sobre Filosofia e Cultura, vinculado ao Instituto Federal de Brasília - IFB. Para mais informações mande um <a href="mailto:gpinterface@gmail.com">email</a>'
+credits: 'Interface é um grupo de pesquisa sobre Filosofia e Cultura, vinculado ao Instituto Federal de Brasília - IFB. Para mais informações mande um <a href="mailto:gpinterface@gmail.com">email</a>.'
 
 # Build settings
 markdown: kramdown
