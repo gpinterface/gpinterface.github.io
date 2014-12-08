@@ -14,7 +14,7 @@ footer:
   copyright: Marcos Ramon
   location: Onde
   social: Mais
-  credits: Créditos
+  credits: Info
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -22,13 +22,9 @@ social:
     url: http://twitter.com/mrtollens
   - title: facebook
     url:
-  - title: stack-overflow
+  - title: google+
     url: 
-  - title: bitbucket 
-    url: 
-  - title: github
-    url: 
-
+ 
 # Postal address (add as many lines as necessary)
 address:
   - line: Instituto Federal de Brasília - IFB / SGAN 610, Asa Norte
