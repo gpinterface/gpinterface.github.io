@@ -33,7 +33,7 @@ address:
   - line: Brasília, DF
   
 # Credits content
-credits: 'Interface é um grupo de pesquisa sobre Filosofia e Cultura, vinculado ao Instituto Federal de Brasília - IFB. Para mais informações mande um <a href="mailto:gpinterface@gmail.com">email</a>.'
+credits: 'Interface é um grupo de pesquisa sobre Filosofia e Cultura, vinculado ao Instituto Federal de Brasília - IFB. Para mais informações mande um <a href="mailto:gpinterface@gmail.com">email</a>. Acesse também a <a href="http://dgp.cnpq.br/dgp/espelhogrupo/6419069911099653">página do grupo no diretório de grupos do CNPq</a>.'
 
 # Build settings
 markdown: kramdown
