@@ -22,8 +22,10 @@ social:
     url: http://twitter.com/mrtollens
   - title: facebook
     url:
-  - title: google+
-    url: 
+  - title: google-plus
+    url: https://plus.google.com/+marcosramon
+  - title: instagram
+    url: http://instagram.com/mrtollens 
  
 # Postal address (add as many lines as necessary)
 address:
