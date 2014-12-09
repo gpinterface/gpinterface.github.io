@@ -7,6 +7,6 @@ alt: minicursos
 quando: Maio-Junho 2015
 onde: IFB
 que: mini curso
-description: O grupo pretende realizar alguns minicursos durante 2015. Fique de olho na <a href="http://www.gpinterface.com.br/#portfolioModal-2">programação</a>.
+description: O grupo pretende realizar alguns minicursos durante 2015. Fique de olho na <a href="http://www.gpinterface.com.br/#portfolioModal-2" target="_blank">programação</a>.
 
 ---
