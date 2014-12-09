@@ -3,7 +3,7 @@ layout: default
 modal-id: 6
 date: 2014-07-15
 img: lego.jpg
-alt: mini curso
+alt: mini cursos
 quando: Maio-Junho 2015
 onde: IFB
 que: mini curso
