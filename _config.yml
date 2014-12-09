@@ -24,12 +24,10 @@ social:
     url:
   - title: google-plus
     url: https://plus.google.com/+marcosramon
-  - title: instagram
-    url: http://instagram.com/mrtollens 
- 
+
 # Postal address (add as many lines as necessary)
 address:
-  - line: SGAN 610, Asa Norte / Instituto Federal de Brasília - IFB 
+  - line: SGAN 610, Asa Norte / Campus Brasília - IFB 
   - line: Brasília, DF
   
 # Credits content
