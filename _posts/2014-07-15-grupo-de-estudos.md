@@ -2,7 +2,7 @@
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: conversa.jpg
+img: conversa.JPG
 alt: grupo de estudos
 quando: Março-Junho de 2015
 onde: Sala do CAFE no Campus Brasília
