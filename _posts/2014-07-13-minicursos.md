@@ -2,7 +2,7 @@
 layout: default
 modal-id: 6
 date: 2014-07-15
-img: portifolio/cadernos.jpg
+img: cadernos.JPG
 alt: minicursos
 quando: Maio-Junho 2015
 onde: IFB
